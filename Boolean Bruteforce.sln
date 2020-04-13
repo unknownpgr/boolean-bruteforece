@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Boolean Bruteforce", "Boolean Bruteforce\Boolean Bruteforce.vcxproj", "{EAA8BBAE-4A49-4ED0-801F-2AC99A895ABA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAA8BBAE-4A49-4ED0-801F-2AC99A895ABA}.Debug|x64.ActiveCfg = Debug|x64
+		{EAA8BBAE-4A49-4ED0-801F-2AC99A895ABA}.Debug|x64.Build.0 = Debug|x64
+		{EAA8BBAE-4A49-4ED0-801F-2AC99A895ABA}.Debug|x86.ActiveCfg = Debug|Win32
+		{EAA8BBAE-4A49-4ED0-801F-2AC99A895ABA}.Debug|x86.Build.0 = Debug|Win32
+		{EAA8BBAE-4A49-4ED0-801F-2AC99A895ABA}.Release|x64.ActiveCfg = Release|x64
+		{EAA8BBAE-4A49-4ED0-801F-2AC99A895ABA}.Release|x64.Build.0 = Release|x64
+		{EAA8BBAE-4A49-4ED0-801F-2AC99A895ABA}.Release|x86.ActiveCfg = Release|Win32
+		{EAA8BBAE-4A49-4ED0-801F-2AC99A895ABA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D92AA9ED-036D-49D3-AE60-CCAFDFE441A6}
+	EndGlobalSection
+EndGlobal
